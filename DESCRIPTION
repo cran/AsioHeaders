@@ -1,7 +1,7 @@
 Package: AsioHeaders
 Type: Package
 Title: 'Asio' C++ Header Files
-Version: 1.12.1
+Version: 1.12.1-1
 Date: 2018-09-10
 Author: Dirk Eddelbuettel
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
@@ -15,6 +15,6 @@ Copyright: file inst/COPYRIGHTS
 License: BSL-1.0
 BugReports: https://github.com/eddelbuettel/asioheaders/issues
 NeedsCompilation: no
-Packaged: 2018-09-10 11:11:55.883582 UTC; edd
+Packaged: 2018-09-10 11:43:50.57711 UTC; edd
 Repository: CRAN
-Date/Publication: 2018-09-10 12:40:19 UTC
+Date/Publication: 2018-09-10 15:10:19 UTC

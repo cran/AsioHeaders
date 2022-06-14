@@ -1,6 +1,6 @@
 ## AsioHeaders: Asio Headers for R
 
-[![Build Status](https://travis-ci.org/eddelbuettel/asioheaders.svg)](https://travis-ci.org/eddelbuettel/asioheaders)
+[![CI](https://github.com/eddelbuettel/asioheaders/workflows/ci/badge.svg)](https://github.com/eddelbuettel/asioheaders/actions?query=workflow%3Aci)
 [![License](https://img.shields.io/badge/license-BSL--1.0-brightgreen.svg?style=flat)](https://www.boost.org/users/license.html)
 [![CRAN](https://www.r-pkg.org/badges/version/AsioHeaders)](https://cran.r-project.org/package=AsioHeaders)
 [![Downloads](https://cranlogs.r-pkg.org/badges/AsioHeaders?color=brightgreen)](https://cran.r-project.org/package=AsioHeaders)
@@ -25,6 +25,14 @@ To use it, simply add it to the `LinkingTo:` field in the `DESCRIPTION` field of
 package---and the R package infrastructure tools will then know how to set
 include flags correctly on all architectures supported by R.
 
+### Example
+
+The [RcppAsioExample](https://github.com/eddelbuettel/rcppasioexample)
+package provides a simple illustration and example of using this package. Use
+it to both assert your compiler and setup are working correctly, and possibly
+extend your work from.  Generally speaking, only a `LinkingTo: AsioHeaders`
+should be needed, plus on Windows only a very simply [link instruction in
+`src/Makevars.win`](https://github.com/eddelbuettel/rcppasioexample/blob/master/src/Makevars.win).
 
 ### See Also
 

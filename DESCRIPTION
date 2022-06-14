@@ -1,8 +1,8 @@
 Package: AsioHeaders
 Type: Package
 Title: 'Asio' C++ Header Files
-Version: 1.16.1-1
-Date: 2020-06-28
+Version: 1.22.1-1
+Date: 2022-06-14
 Author: Dirk Eddelbuettel
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: 'Asio' is a cross-platform C++ library for network and low-level
@@ -13,8 +13,10 @@ Description: 'Asio' is a cross-platform C++ library for network and low-level
  released under the 'Boost Software License', Version 1.0.
 Copyright: file inst/COPYRIGHTS
 License: BSL-1.0
+URL: https://github.com/eddelbuettel/asioheaders,
+        https://dirk.eddelbuettel.com/code/asioheaders.html
 BugReports: https://github.com/eddelbuettel/asioheaders/issues
 NeedsCompilation: no
-Packaged: 2020-06-28 20:05:24.317308 UTC; edd
+Packaged: 2022-06-14 17:18:17 UTC; edd
 Repository: CRAN
-Date/Publication: 2020-07-07 09:30:05 UTC
+Date/Publication: 2022-06-14 17:50:02 UTC

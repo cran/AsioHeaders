@@ -1,9 +1,9 @@
-79817655f217ae29c914fd96a9899796 *ChangeLog
-569775cc1a6fcd5617f3ee12ce57cb9d *DESCRIPTION
+8d869d8917c006968f8af945c3300771 *ChangeLog
+49eeef6f68b842a212e34fd239c4aedc *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 89b10f7bdc498b8f888efa89391b3e39 *README.md
 0a8a862338342fd36c223587c473e0fb *inst/COPYRIGHTS
-b3c96fec6bb9101caf2a4287d70f3550 *inst/NEWS.Rd
+b4843e33af9bb5ccfdde6f8ebe67f666 *inst/NEWS.Rd
 4c14b2a778428516c1fa28fd0fa4baf5 *inst/include/asio.hpp
 d7bb6762f2cee61ea917ee71ca24da92 *inst/include/asio/any_io_executor.hpp
 06caae7a65f89cb2e19dd3ec52fd2587 *inst/include/asio/associated_allocator.hpp
@@ -114,7 +114,7 @@ fe6654a236aefef5f5a9618bfd2c18f2 *inst/include/asio/detail/impl/buffer_sequence_
 7c220bcf6b388f856cb2eee2ad4e0489 *inst/include/asio/detail/impl/epoll_reactor.hpp
 c68581da23a0618f483c6b86045a039b *inst/include/asio/detail/impl/epoll_reactor.ipp
 91402338a1a36876c093391356d147d8 *inst/include/asio/detail/impl/eventfd_select_interrupter.ipp
-b2688e54535590c18c3c94076ff6efe9 *inst/include/asio/detail/impl/handler_tracking.ipp
+ae7a74bd5a098cf11b1e401865997c34 *inst/include/asio/detail/impl/handler_tracking.ipp
 686180383e75d2f9bfbfd1bc624002ba *inst/include/asio/detail/impl/io_uring_descriptor_service.ipp
 a2760aa5b52bb8e486ff08ce75144bf8 *inst/include/asio/detail/impl/io_uring_file_service.ipp
 98558ab61dac44a47286449dc9aa1f75 *inst/include/asio/detail/impl/io_uring_service.hpp
@@ -138,7 +138,7 @@ b4a4c8d5ecc7637a812ae7df2cb5c697 *inst/include/asio/detail/impl/select_reactor.i
 71f2da469e72789b9d6d40ac49d62278 *inst/include/asio/detail/impl/service_registry.hpp
 8f577f2494ad0115b94ae9913f2bfeb6 *inst/include/asio/detail/impl/service_registry.ipp
 80e93aa52b57e587958ba29d4a0fc8b8 *inst/include/asio/detail/impl/signal_set_service.ipp
-ad5f65710b55ac375b249e07d7f571f3 *inst/include/asio/detail/impl/socket_ops.ipp
+785aa1e859a645828368872e6410805a *inst/include/asio/detail/impl/socket_ops.ipp
 8b8f9af0535c61e1739fa1aa92ebc87b *inst/include/asio/detail/impl/socket_select_interrupter.ipp
 0ccbe9a792c4a1bff844187887ab9c0f *inst/include/asio/detail/impl/strand_executor_service.hpp
 41de051350cf1ad745e11c6707ea5979 *inst/include/asio/detail/impl/strand_executor_service.ipp
@@ -508,9 +508,9 @@ eee2197ef81f6b061f3fc68c00462824 *inst/include/asio/ip/impl/address_v4.hpp
 e5743440b35192dea103da10ed389f20 *inst/include/asio/ip/impl/basic_endpoint.hpp
 9de4c6fc6cd7969c8738a7933c377dcb *inst/include/asio/ip/impl/host_name.ipp
 795df407849eb9368f5ac87700fa847d *inst/include/asio/ip/impl/network_v4.hpp
-03e1cb9b02d3d992d7c26a4e9197adc1 *inst/include/asio/ip/impl/network_v4.ipp
+1523cd1ffc51ee730a5e976fd0da5843 *inst/include/asio/ip/impl/network_v4.ipp
 59a4815b1c901750aac8f9336d0861ec *inst/include/asio/ip/impl/network_v6.hpp
-118ab357803215b2a026787b406dc97d *inst/include/asio/ip/impl/network_v6.ipp
+cb3d9a8f88f1d4abdbfdfa84ce1c1581 *inst/include/asio/ip/impl/network_v6.ipp
 e79ad8c9786b4e25b6780a4022e209de *inst/include/asio/ip/multicast.hpp
 f841f5868e8808d744f25b6def22b7df *inst/include/asio/ip/network_v4.hpp
 f7ba265a7408077abc0dcd5be037ac86 *inst/include/asio/ip/network_v6.hpp

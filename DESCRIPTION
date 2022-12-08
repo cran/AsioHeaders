@@ -1,8 +1,8 @@
 Package: AsioHeaders
 Type: Package
 Title: 'Asio' C++ Header Files
-Version: 1.22.1-1
-Date: 2022-06-14
+Version: 1.22.1-2
+Date: 2022-12-07
 Author: Dirk Eddelbuettel
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: 'Asio' is a cross-platform C++ library for network and low-level
@@ -17,6 +17,6 @@ URL: https://github.com/eddelbuettel/asioheaders,
         https://dirk.eddelbuettel.com/code/asioheaders.html
 BugReports: https://github.com/eddelbuettel/asioheaders/issues
 NeedsCompilation: no
-Packaged: 2022-06-14 17:18:17 UTC; edd
+Packaged: 2022-12-08 04:04:23 UTC; edd
 Repository: CRAN
-Date/Publication: 2022-06-14 17:50:02 UTC
+Date/Publication: 2022-12-08 08:12:34 UTC

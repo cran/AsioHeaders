@@ -1,3 +1,30 @@
+2025-04-08  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Relase 1.28.2-1
+
+2025-04-08  Charlie Gao  <charlie.gao@shikokuchuo.net>
+
+	* inst/include/asio*: Upgraded to Asio 1.28.2
+	* inst/include/asio/detail/config.cpp: Ensure ASIO_HAS_SNPRINTF defined
+
+2024-12-17  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml: Simplify to r-ci with included bootstrap
+
+2024-08-02  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Roll minor version and date
+
+	* DESCRIPTION (Authors@R): Added
+
+2024-06-13  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml (jobs): Update to r-ci-setup action
+
+2023-09-20  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml (jobs): Update to actions/checkout@v4
+
 2022-12-07  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Relase 1.22.1-2
